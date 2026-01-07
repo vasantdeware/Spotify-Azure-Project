@@ -1,0 +1,9 @@
+{
+	"name": "Spofitydf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c846f8b-346a-4312-a727-d4b90728d52e",
+		"tenantId": "860d8dd5-e37a-406a-9ad5-f54ccc0789f2"
+	}
+}

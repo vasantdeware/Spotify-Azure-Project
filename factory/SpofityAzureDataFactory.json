@@ -1,0 +1,9 @@
+{
+	"name": "SpofityAzureDataFactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1f94a1b-4306-4f0f-8e71-c1e2b29dddae",
+		"tenantId": "860d8dd5-e37a-406a-9ad5-f54ccc0789f2"
+	}
+}
